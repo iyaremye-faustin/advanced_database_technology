@@ -5,6 +5,8 @@ This project implements a relational database for a Hostel Management System des
 
 ## Database Schema
 
+![Database Schema](images/diagram.png)
+
 The database consists of the following main entities:
 
 ### Academic Program Management
